@@ -1,4 +1,2 @@
-## Hi, I'm - Mazzi -
-
->>>
-
+# Hello there 👋
+I'm Mazzi! Unimib student
